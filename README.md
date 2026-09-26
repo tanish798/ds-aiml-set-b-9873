@@ -252,12 +252,12 @@ pip install numpy pandas matplotlib scipy scikit-learn
 -   Scikit-learn
 -   Jupyter Notebook / Google Colab
 
-## Conclusion
 
 ## Video explanation:- https://drive.google.com/file/d/1XRa3ynWoujXJwshFltHQiQQlN_AHvLd2/view?usp=sharing
 
 
 
+## Conclusion
 
 This project demonstrates an end-to-end machine quality analysis
 workflow, starting from synthetic data creation and exploratory checks
