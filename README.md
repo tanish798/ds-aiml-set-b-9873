@@ -254,6 +254,11 @@ pip install numpy pandas matplotlib scipy scikit-learn
 
 ## Conclusion
 
+## Video explanation:- https://drive.google.com/file/d/1XRa3ynWoujXJwshFltHQiQQlN_AHvLd2/view?usp=sharing
+
+
+
+
 This project demonstrates an end-to-end machine quality analysis
 workflow, starting from synthetic data creation and exploratory checks
 and continuing through statistical analysis, preprocessing, feature
